@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+    --color-linkedin-blue: #0a66c2;           /* Primary blue (Sign In, buttons) */
+    --color-linkedin-blue-hover: #004182;     /* Hover state for primary */
+    --color-linkedin-text: #202124;           /* Main text color */
+    --color-linkedin-text-secondary: #5f6368; /* Secondary text for muted labels */
+    --color-white: #ffffff;                   /* Default background or text */
+    --color-gray-light: #f3f4f6;              /* Light background (gray-100) */
+    --color-gray-border: #e5e7eb;             /* Border gray (gray-200) */
+    --color-danger: #dc2626;                  /* Tailwind red-600 */
+  }
+  
