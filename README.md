@@ -16,7 +16,7 @@ A mini LinkedIn-style social platform built with the **MERN** stack. Users can r
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/mini-linkedin.git
+git clone https://github.com/VikasSoni10/mini-linkedin.git
 cd mini-linkedin
 ```
 ### 2. Backend Setup (server)
